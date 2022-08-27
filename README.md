@@ -1,2 +1,3 @@
 # GITSFHomework
-Hello world
+Hello world. Conflict
+
