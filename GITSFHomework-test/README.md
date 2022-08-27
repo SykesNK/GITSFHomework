@@ -1,2 +1,0 @@
-# GITSFHomework
-Hello world !!!
